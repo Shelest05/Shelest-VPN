@@ -1,0 +1,1 @@
+trojan://oWBeDPtCTSdVdqI6TTbJmc4Pl@free-fin-0.undef.network:443?sni=free-fin-0.undef.network&host=free-fin-0.undef.network&security=tls&type=ws&path=%2Ff2fc2a1f#HLVPN_EU_FREE
