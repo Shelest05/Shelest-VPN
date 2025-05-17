@@ -1,4 +1,4 @@
-vless://588f094b-431b-422c-b80b-007945037072@ru05.abvpn.ru:443?security=tls&encryption=none&type=ws&host=ru05.abvpn.ru&path=/websocket&sni=ru05.abvpn.ru&fp=chrome&alpn=h2,h3,http/1.1#🇷🇺Россия
+vless://588f094b-431b-422c-b80b-007945037072@ru05.abvpn.ru:443?security=tls&encryption=none&type=ws&host=ru05.abvpn.ru&path=/websocket&sni=ru05.abvpn.ru&fp=chrome&alpn=h2,h3,http/1.1#🇷🇺Россия (Inst, YouTube)
 vless://401374e6-df77-41fb-f638-dad8184f175b@27.50.48.192:443?security=tls&encryption=none&type=grpc&sni=vp28.hiddendom.shop&fp=chrome&alpn=h2#🇭🇰Гонконг
 trojan://oWBeDPtCTSdVdqI6TTbJmc4Pl@free-fin-0.undef.network:443?sni=free-fin-0.undef.network&host=free-fin-0.undef.network&security=tls&type=ws&path=%2Ff2fc2a1f#EU_VPN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsZWlOSXdCb0dXbWFhYU5uZG5CRnY5ek0x@basic-ru-0.undef.network:25582#RU_VPN
