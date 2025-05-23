@@ -4,3 +4,4 @@ trojan://oWBeDPtCTSdVdqI6TTbJmc4Pl@free-fin-0.undef.network:443?sni=free-fin-0.u
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsZWlOSXdCb0dXbWFhYU5uZG5CRnY5ek0x@basic-ru-0.undef.network:25582#🇷🇺Россия (RU_VPN)
 vless://56652249-2e67-4429-b86c-3df8b838ad85@tgju.org:8080?sni=4j.QBAo1g5z6k.ZulaIR.org.&type=ws&host=4j.QBAo1g5z6k.ZulaIR.org.&path=/?ed=2048#🇺🇸США
 trojan://I46LpSIM1f@194.164.57.9:1935?security=tls&sni=x4ger-ionos.devefun.net&alpn=h3,h2,http/1.1&type=tcp#🇩🇪Германия
+trojan://3482c71a-d01c-4ae5-b454-fa8cb3785f66@94.131.20.3:443?security=tls&sni=chop-wrist-bud.stark-industries.solutions&fp=chrome&headerType=none&alpn=http/1.1,h2,h3&type=tcp#🇲🇩Молдова (Высокая скорость)
