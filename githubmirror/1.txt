@@ -1,3 +1,4 @@
 trojan://PpHIviUrpUcs2baXwQmFJDZfq@free-fin-0.undef.network:443?sni=free-fin-0.undef.network&host=free-fin-0.undef.network&security=tls&type=ws&path=%2Ff2fc2a1f#🇫🇮Финляндия (EU_VPN)
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaWXlRWGNVUVNWdExvTlFUcjVjWDhvYTZa@basic-ru-1.undef.network:20966#🇷🇺Россия (RU_VPN)
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.128:8880?security=none&encryption=none&type=grpc#🇺🇸США
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.94:8880?security=none&encryption=none&type=grpc#🇫🇷Франция
