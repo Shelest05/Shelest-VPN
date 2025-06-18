@@ -1,5 +1,6 @@
 trojan://PpHIviUrpUcs2baXwQmFJDZfq@free-fin-0.undef.network:443?sni=free-fin-0.undef.network&host=free-fin-0.undef.network&security=tls&type=ws&path=%2Ff2fc2a1f#🇫🇮Финляндия (EU_VPN)
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaWXlRWGNVUVNWdExvTlFUcjVjWDhvYTZa@basic-ru-1.undef.network:20966#🇷🇺Россия (RU_VPN)
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.128:8880?security=none&encryption=none&type=grpc#🇺🇸США
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.128:8880?security=none&encryption=none&type=grpc#🇺🇸США #1
+vless://cd2e9541-3fce-4d95-9bec-919d884f911e@104.19.222.79:443?type=ws&host=wureq.stephen-lifeistooshort.info&path=/tiger&security=tls&sni=wureq.stephen-lifeistooshort.info#🇺🇸США #2
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.94:8880?security=none&encryption=none&type=grpc#🇫🇷Франция
 vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@160.250.65.149:34045?security=reality&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&type=tcp&fp=firefox&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&sid=e8ab71d0#🇻🇳Вьетнам
