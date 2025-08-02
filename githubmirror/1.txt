@@ -1,6 +1,6 @@
 trojan://nbLdeVQanyBc79Iyoj8b55kQG@free-fin-0.undef.network:443?sni=free-fin-0.undef.network&host=free-fin-0.undef.network&security=tls&type=ws&path=%2Ff2fc2a1f#EU_VPN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5UnZpTmE0dHNjamNtQ0I0MDh2TFNn@46.101.245.131:44354?type=tcp#🇩🇪Германия
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvQmRUbG1uNlpnMEFaSW52bUlnTE9VcGVY@basic-ru-2.undef.network:18030?type=tcp#🇷🇺Россия (RU_VPN)
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1R2JEOVhzVmN6WnFqaGxsVjhCcmRSc3Jj@basic-ru-2.undef.network:18453?type=tcp#🇷🇺Россия (RU_VPN)
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@ru.vmagnum.win:57456?type=tcp#🇷🇺Россия (Москва)#1⚡️
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@45.139.24.24:57456?type=tcp#🇷🇺Россия (Москва)#2⚡️
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowenlEUloxWG1OWGFhQ0FON0tFQThh@45.151.62.54:28825?type=tcp#🇷🇺Россия (Москва)#3⚡️
