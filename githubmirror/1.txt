@@ -1,6 +1,6 @@
 trojan://nbLdeVQanyBc79Iyoj8b55kQG@free-fin-0.undef.network:443?sni=free-fin-0.undef.network&host=free-fin-0.undef.network&security=tls&type=ws&path=%2Ff2fc2a1f#EU_VPN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5UnZpTmE0dHNjamNtQ0I0MDh2TFNn@46.101.245.131:44354?type=tcp#🇩🇪Германия
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvMkRYcnl1d1hzRXlXVFh5UTZncXQyRzlT@basic-ru-0.undef.network:30618#🇷🇺Россия (RU_VPN)
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowZG9wMWRZbUJJdWp4OHFzdHI5dUc4WG10@basic-ru-3.undef.network:4193#🇷🇺Россия (RU_VPN)
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@ru.vmagnum.win:57456?type=tcp#🇷🇺Россия (Москва)#1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@45.139.24.24:57456?type=tcp#🇷🇺Россия (Москва)#2
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@rusrv.vpnsparta.pro:57456?type=tcp#🇫🇮Финляндия(Хельсинки)#2
