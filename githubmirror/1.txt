@@ -1,11 +1,4 @@
-trojan://nbLdeVQanyBc79Iyoj8b55kQG@free-fin-0.undef.network:443?sni=free-fin-0.undef.network&host=free-fin-0.undef.network&security=tls&type=ws&path=%2Ff2fc2a1f#EU_VPN
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5UnZpTmE0dHNjamNtQ0I0MDh2TFNn@46.101.245.131:44354?type=tcp#🇩🇪Германия
+trojan://nbLdeVQanyBc79Iyoj8b55kQG@free-fin-0.undef.network:443?sni=free-fin-0.undef.network&host=free-fin-0.undef.network&security=tls&type=ws&path=%2Ff2fc2a1f#🇵🇱Польша (EU_VPN)⚡️
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowZG9wMWRZbUJJdWp4OHFzdHI5dUc4WG10@basic-ru-3.undef.network:4193#🇷🇺Россия (RU_VPN)
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@ru.vmagnum.win:57456?type=tcp#🇷🇺Россия (Москва)#1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@45.139.24.24:57456?type=tcp#🇷🇺Россия (Москва)#2
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@rusrv.vpnsparta.pro:57456?type=tcp#🇫🇮Финляндия(Хельсинки)#2
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNThmYTYyYjQ5NDRkZGJm@38.107.234.38:57456?type=tcp#🇰🇿Казахстан
-vless://90efad13-d266-4d10-a914-bc40028ec469@94.131.108.195:53221?type=tcp#🇹🇷Турция #1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNDA2NDFjMWY4OWU3YWNi@tr.vpnsparta.pro:57456?type=tcp#🇹🇷Турция (Стамбул)#2
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNDA2NDFjMWY4OWU3YWNi@62.133.63.212:57456?type=tcp#🇹🇷Турция (Стамбул)#3
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.94:8880?security=none&encryption=none&type=grpc#🇫🇷Франция
+vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@amazon-4.cristiano.name.ng:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=store.steampowered.com&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&sid=f5&spx=/#🇨🇦Канада
