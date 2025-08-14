@@ -1,4 +1,4 @@
 trojan://nbLdeVQanyBc79Iyoj8b55kQG@free-fin-0.undef.network:443?sni=free-fin-0.undef.network&host=free-fin-0.undef.network&security=tls&type=ws&path=%2Ff2fc2a1f#🇵🇱Польша (EU_VPN)⚡️
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowZG9wMWRZbUJJdWp4OHFzdHI5dUc4WG10@basic-ru-3.undef.network:4193#🇷🇺Россия (RU_VPN)
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyT0VnMVhyMXYzV2lCd04zQldVYUhSc2Vm@basic-ru-3.undef.network:4293?type=tcp#🇷🇺Россия (RU_VPN)(ОБНОВЛЕН)
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNThmYTYyYjQ5NDRkZGJm@38.107.234.38:57456?type=tcp#🇰🇿Казахстан
 vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@amazon-4.cristiano.name.ng:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=store.steampowered.com&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&sid=f5&spx=/#🇨🇦Канада
