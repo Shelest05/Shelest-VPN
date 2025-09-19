@@ -1,7 +1,8 @@
-ss://#Обновлено: 07.09|17:55
-trojan://IvyZSIWHO1MFSuxOazT8gxUGb@free-fin-0.undef.network:443?type=ws&host=free-fin-0.undef.network&path=/f2fc2a1f&security=tls&sni=free-fin-0.undef.network#🇵🇱Польша (EU_VPN) #1⚡️
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLbjFES2xUaVhJYnh6d2JUREpWZ2xPZ3Fs@basic-ru-3.undef.network:4579?type=tcp#🇷🇺Россия (RU_VPN)
+ss://#Обновлено: 19.09|13:14
+trojan://IvyZSIWHO1MFSuxOazT8gxUGb@free-fin-0.undef.network:443?type=ws&host=free-fin-0.undef.network&path=/f2fc2a1f&security=tls&sni=free-fin-0.undef.network#(EU_VPN)
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4ZzFaaUhqMk9JTURTdktkNTFWNEJWU3FO@basic-ru-3.undef.network:5121?type=tcp#🇷🇺Россия (RU_VPN)
 vless://2a9ed01e-5455-44b4-a66a-76ee8165f0ac@77.73.232.61:19747?encryption=none&type=tcp&headerType=none&security=reality&fp=chrome&sni=yahoo.com&pbk=ZO9dTeg1slvTXgVsBsaJ1BDvz_YUImTLJjbHs-GdVyM&sid=2001#🇰🇿Казахстан #1
 vless://4b9063e0-3288-44e9-9aac-80fbfce323a0@83.222.23.81:38065?encryption=none&type=tcp&headerType=none&security=reality&fp=chrome&sni=yahoo.com&pbk=dSSDPTK6AHfAdRAXD9i4rzqcNIY65RxlF25UyCKdiyo&sid=fa#🇰🇿Казахстан #2
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxc2NhdkY1VXZpSUwtOFYtRTRyYUJB@83.217.9.125:2222?type=tcp#🇹🇷Турция
+vless://2a9ed01e-5455-44b4-a66a-76ee8165f0ac@77.73.232.61:19747?encryption=none&type=tcp&headerType=none&security=reality&fp=chrome&sni=yahoo.com&pbk=ZO9dTeg1slvTXgVsBsaJ1BDvz_YUImTLJjbHs-GdVyM&sid=2001#🇰🇿Казахстан #3
 vless://401374e6-df77-41fb-f638-dad8184f175b@45.131.7.127:443?type=grpc&mode=gun&security=tls&sni=pqh23v4.hiddendom.shop&alpn=h2#🇳🇱Нидерланды
+vmess://eyJob3N0IjoiMjMuNDUuODYuMjgiLCJpZCI6ImM1M2Q0MWQxLTdkNTYtNDNjZS05OTk0LTQwODc4MGM2NDc2YSIsInNjeSI6IiIsInBvcnQiOiI2NTA2IiwiYWRkIjoiMTkzLjEyNC4yNC4yNDciLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiJcLyIsInBzIjoiJUYwJTlGJTg3JUJBJUYwJTlGJTg3JUI4JUQwJUExJUQwJUE4JUQwJTkwIn0=#США
