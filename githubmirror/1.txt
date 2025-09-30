@@ -1,5 +1,5 @@
-ss://#Обновлено: 19.09|13:42
-trojan://IvyZSIWHO1MFSuxOazT8gxUGb@free-fin-0.undef.network:443?type=ws&host=free-fin-0.undef.network&path=/f2fc2a1f&security=tls&sni=free-fin-0.undef.network#(EU_VPN)
+ss://#Обновлено: 30.09|14:58
+trojan://DjtcjHR7mPttPTrR6jjB4Hh6C@free-fin-2.undef.network:443?type=ws&host=free-fin-2.undef.network&path=/f2fc2a1f&security=tls&sni=free-fin-2.undef.network#🇫🇮 Финляндия (EU_VPN)
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4ZzFaaUhqMk9JTURTdktkNTFWNEJWU3FO@basic-ru-3.undef.network:5121?type=tcp#🇷🇺Россия (RU_VPN)
 vless://a87bf8a2-17a4-3054-b51e-876b5f1d0f24@5.181.171.2:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=speed.cloudflare.com&pbk=YNGotlyAx3ELUmi4lxOUjiEDmibqf1pPUTE9o3YYT2Y#%F0%9F%87%B7%F0%9F%87%BA%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20(%D0%A1%D0%9F%D0%B1)
 vless://8e6acce9-8b56-7190-d491-7d84f8189e26@5.181.171.2:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=speed.cloudflare.com&pbk=YNGotlyAx3ELUmi4lxOUjiEDmibqf1pPUTE9o3YYT2Y#%F0%9F%87%B7%F0%9F%87%BA%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20(%D0%9C%D0%A1%D0%9A)
@@ -7,7 +7,6 @@ vless://2a9ed01e-5455-44b4-a66a-76ee8165f0ac@77.73.232.61:19747?encryption=none&
 vless://4b9063e0-3288-44e9-9aac-80fbfce323a0@83.222.23.81:38065?encryption=none&type=tcp&headerType=none&security=reality&fp=chrome&sni=yahoo.com&pbk=dSSDPTK6AHfAdRAXD9i4rzqcNIY65RxlF25UyCKdiyo&sid=fa#🇰🇿Казахстан #2
 vless://2a9ed01e-5455-44b4-a66a-76ee8165f0ac@77.73.232.61:19747?encryption=none&type=tcp&headerType=none&security=reality&fp=chrome&sni=yahoo.com&pbk=ZO9dTeg1slvTXgVsBsaJ1BDvz_YUImTLJjbHs-GdVyM&sid=2001#🇰🇿Казахстан #3
 vless://401374e6-df77-41fb-f638-dad8184f175b@141.11.203.139:443?encryption=none&type=grpc&mode=gun&security=tls&sni=pqh23v5.hiddendom.shop&alpn=h2#%F0%9F%87%AB%F0%9F%87%AE%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F
-vless://401374e6-df77-41fb-f638-dad8184f175b@45.131.7.127:443?type=grpc&mode=gun&security=tls&sni=pqh23v4.hiddendom.shop&alpn=h2#🇳🇱Нидерланды #1
 vmess://eyJwb3J0IjoiODAiLCJzY3kiOiJhdXRvIiwiYWRkIjoidGVzdDMuZmxoYS5ydSIsInBhdGgiOiJcLzlhODEzNDBkLWY4MWItNGM3Ni04YWJiLWY0ZDMwNWM1MzVjMC12bWVzcyIsInBzIjoiJUYwJTlGJTg3JUIzJUYwJTlGJTg3JUIxJUQwJTlEJUQwJUI4JUQwJUI0JUQwJUI1JUQxJTgwJUQwJUJCJUQwJUIwJUQwJUJEJUQwJUI0JUQxJThCJTIwJTIzMiIsIm5ldCI6IndzIiwiaWQiOiI5YTgxMzQwZC1mODFiLTRjNzYtOGFiYi1mNGQzMDVjNTM1YzAiLCJob3N0IjoidGVzdDMuZmxoYS5ydSJ9
 vmess://eyJob3N0IjoiMjMuNDUuODYuMjgiLCJpZCI6ImM1M2Q0MWQxLTdkNTYtNDNjZS05OTk0LTQwODc4MGM2NDc2YSIsInNjeSI6IiIsInBvcnQiOiI2NTA2IiwiYWRkIjoiMTkzLjEyNC4yNC4yNDciLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiJcLyIsInBzIjoiJUYwJTlGJTg3JUJBJUYwJTlGJTg3JUI4JUQwJUExJUQwJUE4JUQwJTkwIn0=#США
 vless://49ed01ad-3bb4-204f-b0ff-a58f658fd618@103.175.79.10:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=speed.cloudflare.com&pbk=4e-unF1RO2v--E7-X3aqxnCSPaK9QaTfJ7LawAr2bRI#%F0%9F%87%BA%F0%9F%87%B8%D0%A1%D0%A8%D0%90%20%232
