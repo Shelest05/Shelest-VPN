@@ -1,6 +1,6 @@
-ss://#Обновлено: 2.11|18:59
+ss://#Обновлено: 2.11|19:05
 trojan://wiPPwi2MwSrhzYzVyHd7SvHCD@free-fin-2.undef.network:443?type=ws&host=free-fin-2.undef.network&path=/f2fc2a1f&security=tls&sni=free-fin-2.undef.network#🇫🇮 Финляндия (EU_VPN)⚡️
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCQnh4dFJmNWllUDNQcTNTbk1qSkk2dEs0@basic-ru-3.undef.network:5747?type=tcp#🇷🇺Россия (RU_VPN)
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCQnh4dFJmNWllUDNQcTNTbk1qSkk2dEs0@basic-ru-3.undef.network:5747?type=tcp#🇷🇺Россия (RU_VPN)⚡️
 vless://4b9063e0-3288-44e9-9aac-80fbfce323a0@83.222.23.81:38065?encryption=none&type=tcp&headerType=none&security=reality&fp=chrome&sni=yahoo.com&pbk=dSSDPTK6AHfAdRAXD9i4rzqcNIY65RxlF25UyCKdiyo&sid=fa#🇰🇿Казахстан #2
 vless://2a9ed01e-5455-44b4-a66a-76ee8165f0ac@77.73.232.61:19747?encryption=none&type=tcp&headerType=none&security=reality&fp=chrome&sni=yahoo.com&pbk=ZO9dTeg1slvTXgVsBsaJ1BDvz_YUImTLJjbHs-GdVyM&sid=2001#🇰🇿Казахстан #3
 vmess://eyJob3N0IjoiMjMuNDUuODYuMjgiLCJpZCI6ImM1M2Q0MWQxLTdkNTYtNDNjZS05OTk0LTQwODc4MGM2NDc2YSIsInNjeSI6IiIsInBvcnQiOiI2NTA2IiwiYWRkIjoiMTkzLjEyNC4yNC4yNDciLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiJcLyIsInBzIjoiJUYwJTlGJTg3JUJBJUYwJTlGJTg3JUI4JUQwJUExJUQwJUE4JUQwJTkwIn0=#США🇺🇸
