@@ -1,7 +1,8 @@
-ss://#Обновлено: 25.11|10:46
+ss://#Обновлено: 27.11|00:42
 vless://bca5cfe1-3d2a-45dc-b66a-96298e0051f5@212.233.75.107:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=bit-site.ru&pbk=g0EvKBte8zYrEc8oF0VNhxvIqqUvNXCp54UWYekc60k&sid=e4#🇷🇺Россия⚡️
 vless://4b9063e0-3288-44e9-9aac-80fbfce323a0@83.222.23.81:38065?encryption=none&type=tcp&headerType=none&security=reality&fp=chrome&sni=yahoo.com&pbk=dSSDPTK6AHfAdRAXD9i4rzqcNIY65RxlF25UyCKdiyo&sid=fa#🇰🇿Казахстан #2 🐌
 vless://2a9ed01e-5455-44b4-a66a-76ee8165f0ac@77.73.232.61:19747?encryption=none&type=tcp&headerType=none&security=reality&fp=chrome&sni=yahoo.com&pbk=ZO9dTeg1slvTXgVsBsaJ1BDvz_YUImTLJjbHs-GdVyM&sid=2001#🇰🇿Казахстан #3 🐌
 vmess://eyJob3N0IjoiMjMuNDUuODYuMjgiLCJpZCI6ImM1M2Q0MWQxLTdkNTYtNDNjZS05OTk0LTQwODc4MGM2NDc2YSIsInNjeSI6IiIsInBvcnQiOiI2NTA2IiwiYWRkIjoiMTkzLjEyNC4yNC4yNDciLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiJcLyIsInBzIjoiJUYwJTlGJTg3JUJBJUYwJTlGJTg3JUI4JUQwJUExJUQwJUE4JUQwJTkwIn0=#США🇺🇸⚡️
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNaU9jTHZrc2ZGRHZZVWtmMnZyZjFO@147.45.136.214:5775?type=tcp#🇳🇱Нидерланды ⚡️
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNaU9jTHZrc2ZGRHZZVWtmMnZyZjFO@147.45.136.214:5775?type=tcp#🇳🇱Нидерланды #1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIV05zS3k2MXFQeW9EdHJFWUV0WnVr@5.129.214.186:6403?type=tcp#🇳🇱Нидерланды #2 ⚡️
 vless://8377aac9-f3b3-42df-a5ea-9254f37e7b34@78.40.117.185:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=sto.eu-ffast.com&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&sid=50#🇸🇪Швеция ⚡️
