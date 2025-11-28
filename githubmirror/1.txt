@@ -1,5 +1,6 @@
-ss://#Обновлено: 27.11|00:42
+ss://#Обновлено: 28.11|16:50
 vless://bca5cfe1-3d2a-45dc-b66a-96298e0051f5@212.233.75.107:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=bit-site.ru&pbk=g0EvKBte8zYrEc8oF0VNhxvIqqUvNXCp54UWYekc60k&sid=e4#🇷🇺Россия⚡️
+vless://684ead3d-43b1-4707-904a-24e3e9e91fb1@198.105.123.182:2080?encryption=none&type=grpc&mode=gun&security=reality&fp=chrome&sni=yahoo.com&pbk=9jcs1L8alkKMjyWZh0b0TNaPV53ilNkMIJGLtMU-2S4&sid=722ee6b369#🇹🇷Турция
 vmess://eyJob3N0IjoiMjMuNDUuODYuMjgiLCJpZCI6ImM1M2Q0MWQxLTdkNTYtNDNjZS05OTk0LTQwODc4MGM2NDc2YSIsInNjeSI6IiIsInBvcnQiOiI2NTA2IiwiYWRkIjoiMTkzLjEyNC4yNC4yNDciLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiJcLyIsInBzIjoiJUYwJTlGJTg3JUJBJUYwJTlGJTg3JUI4JUQwJUExJUQwJUE4JUQwJTkwIn0=#США🇺🇸⚡️
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNaU9jTHZrc2ZGRHZZVWtmMnZyZjFO@147.45.136.214:5775?type=tcp#🇳🇱Нидерланды #1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIV05zS3k2MXFQeW9EdHJFWUV0WnVr@5.129.214.186:6403?type=tcp#🇳🇱Нидерланды #2 ⚡️
