@@ -14,4 +14,4 @@
 
 Подписка (копируешь, и добавляешь в программу)
 
-https://github.com/Shelest05/Shelest-VPN/raw/refs/heads/main/githubmirror/1.tx
+https://github.com/Shelest05/Shelest-VPN/raw/refs/heads/main/githubmirror/1.txt
