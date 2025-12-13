@@ -1,3 +1,4 @@
-ss://#Обновлено: 12.12|11:37
-vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@www.speedtest.net:443?encryption=none&type=ws&host=kalam.mrconfigur.site&path=/&security=tls&sni=kalam.mrconfigur.site#🇳🇱Амстердам
+ss://#Обновлено: 13.12|15:14
+
+vless://eb162ab1-a006-4931-b1b3-8fc88a22b10e@83.166.255.72:443/?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=01.img.avito.st&pbk=zkeQCEkz7LlrzwzeG26Ae_HEk3_QlgM9CbiWJx5iWh0#🇷🇺Россия⚡️
 vless://a91e64f0-9295-499d-bf4a-661ad99d4938@217.16.24.170:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=api-maps.yandex.ru&pbk=8OsJx6xuHcpL_5e1w0U4bMBa-icevDgvvzNwPwZbORQ&sid=5540e44a53c3d01c#🇫🇮Финляндия⚡️
