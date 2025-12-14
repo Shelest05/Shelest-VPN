@@ -1,5 +1,5 @@
 ss://#Обновлено: 15.12|01:51
 vless://eb162ab1-a006-4931-b1b3-8fc88a22b10e@83.166.255.72:443/?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=01.img.avito.st&pbk=zkeQCEkz7LlrzwzeG26Ae_HEk3_QlgM9CbiWJx5iWh0#🇷🇺Россия⚡️
-vless://3a066455-22e9-45e7-804e-f1aaaa280e02@89.169.177.222:8443/?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=ios&sni=api-maps.yandex.ru&pbk=CDE57QnfR1CIzHYt5yO2kKrRiBUv4XsvroUQZveU_mE&sid=5540e44a53c3d01c#Обход белого списка✅#1
+vless://3a066455-22e9-45e7-804e-f1aaaa280e02@89.169.177.222:8443/?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=ios&sni=api-maps.yandex.ru&pbk=CDE57QnfR1CIzHYt5yO2kKrRiBUv4XsvroUQZveU_mE&sid=5540e44a53c3d01c#✅Обход белого списка✅#1
 
-vless://b6bd0efd-3f11-4fad-94f2-085edf739474@158.160.61.143:2053/?type=tcp&headerType=none&security=reality&fp=chrome&sni=music.yandex.ru&pbk=opOo5RKisHaoiuJHX6M9j87bsJToaEb4KFGRjtSxU1g&sid=7845e505f5e1bf95#Обход белого списка✅#2
+vless://b6bd0efd-3f11-4fad-94f2-085edf739474@158.160.61.143:2053/?type=tcp&headerType=none&security=reality&fp=chrome&sni=music.yandex.ru&pbk=opOo5RKisHaoiuJHX6M9j87bsJToaEb4KFGRjtSxU1g&sid=7845e505f5e1bf95#✅Обход белого списка✅#2
