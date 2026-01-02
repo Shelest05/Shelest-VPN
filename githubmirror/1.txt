@@ -1,5 +1,5 @@
-ss://#Обновлено: 21.12|12:55
-trojan://BEqoaqF7GzCBdf2kMc7dBLWnf@hl-freedom-1.undef.network:443?sni=hl-freedom-1.undef.network&host=hl-freedom-1.undef.network&security=tls&type=ws&path=%2Ff2fc2a1f#🇬🇧Великобритания⚡️
+ss://#Обновлено: 2.01|21:28
+vless://b2b0791a-14f8-4260-baab-b9dee270ffec@94.103.1.44:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=disk.yandex.ru&pbk=wffi6nrJbxOiA0g7IuiXB4FZ7tkFtb9eRkPS9UvWPks&sid=9ec7e0#🇳🇱Нидерладны
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5enJNeVFkRlhVV2dkRlVRaDlWdGpERzl5@basic-ru-0.undef.network:39800#🇷🇺Россия(YouTube)
 vless://1a539db6-d162-42f4-9b56-687bd57bfbc2@45.8.144.198:443?encryption=none&type=tcp&headerType=none&security=reality&fp=chrome&sni=mirror.yandex.ru&pbk=KXA-hPtvy_hzNER1ZNtUxBv_VrGGKfmIyi4CQAyjGxs&sid=d94e8f45#🇷🇺Россия #2(YouTube)
 vless://3a066455-22e9-45e7-804e-f1aaaa280e02@89.169.177.222:8443/?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=ios&sni=api-maps.yandex.ru&pbk=CDE57QnfR1CIzHYt5yO2kKrRiBUv4XsvroUQZveU_mE&sid=5540e44a53c3d01c#✅Обход белого списка✅#1
