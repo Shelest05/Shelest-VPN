@@ -1,4 +1,4 @@
-ss://#Обновлено: 06.01|01:06
+ss://#Обновлено: 08.01|08:56
 vless://b2b0791a-14f8-4260-baab-b9dee270ffec@94.103.1.44:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=disk.yandex.ru&pbk=wffi6nrJbxOiA0g7IuiXB4FZ7tkFtb9eRkPS9UvWPks&sid=9ec7e0#🇳🇱Нидерладны
 trojan://BEqoaqF7GzCBdf2kMc7dBLWnf@hl-freedom-1.undef.network:443?type=ws&host=hl-freedom-1.undef.network&path=/f2fc2a1f&security=tls&sni=hl-freedom-1.undef.network#🇬🇧Великобритания
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5enJNeVFkRlhVV2dkRlVRaDlWdGpERzl5@basic-ru-0.undef.network:39800#🇷🇺Россия(YouTube)
