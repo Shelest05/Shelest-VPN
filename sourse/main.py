@@ -460,14 +460,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-import base64
-import json
-
-data = {
-    "info": {
-        "telegram": "https://t.me/VEPEEN_bot"
-    }
-}
-
-encoded = base64.b64encode(json.dumps(data).encode()).decode()
-print(encoded)
