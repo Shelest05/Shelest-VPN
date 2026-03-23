@@ -1,3 +1,4 @@
 ss://#Обновлено: 23.03|9:11
-vless://986aa7ae-18e7-41ad-9fa6-3470b4f78c5b@5.181.188.225:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=web.max.ru&pbk=EA-Sxh4tF7Iym27iYccYI5aCrc796cBJgRv9_maBbl4&sid=80fb40&spx=/#🇵🇱Польша(@Shelest_VPN)
+vless://986aa7ae-18e7-41ad-9fa6-3470b4f78c5b@5.181.188.225:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=web.max.ru&pbk=EA-Sxh4tF7Iym27iYccYI5aCrc796cBJgRv9_maBbl4&sid=80fb40&spx=/#🇵🇱Польша 1(@Shelest_VPN)
+vless://52dbc2d8-00c5-2710-a898-22718fb85c12@ing.anti-vpn.ru:52006?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#🇵🇱Польша 2(@Shelest_VPN)
 vless://60aaa42a-7337-4252-89e8-615e034d715c@84.201.131.34:8443?type=tcp&headerType=none&security=reality&fp=random&sni=disk.yandex.ru&pbk=-LJRJGUIqM9CU88DZUdSAPAEijyWPSOKNeDuymL2HnI&sid=6fcb0c&spx=/#📄🇷🇺Обход глушилок 1 (YouTube)
