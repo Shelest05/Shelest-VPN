@@ -2,3 +2,4 @@ vless://217e8d75-528f-4198-8217-ae2885ac9dba@srv13.ezcon24.online:11444?flow=xtl
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.200:8080#🇳🇱Нидерладны #1
 vless://b712ae49-e20f-44d9-ae80-b81f399c5a3a@bz16.wba-pn.ru:2053?type=ws&security=tls&sni=bz16.wba-pn.ru&fp=android#🇳🇱Нидерланды #2
 vless://3a90bf69-1ffe-4ebb-b9a7-ad9ba8e9f66f@fi.alpheratzz.org:443?type=xhttp&host=&path=/&mode=auto&security=tls&sni=api-v2-6a8d949a.alpheratzz.org&alpn=h3&fp=chrome#🇫🇮Финляндия
+vless://9ce4c9e2-1dcc-abe8-9abf-9bf8bc1269f6@89.23.113.51:8443?type=ws&host=j.n.i.l.6.m.7.3.o.t.e.s.j.3.us.art-us.kdns.fr&path=/pg/10086-dfc816f117c49173&security=tls&sni=j.n.i.l.6.m.7.3.o.t.e.s.j.3.us.art-us.kdns.fr&fp=firefox#🏳️Рандомная страна
