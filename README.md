@@ -13,4 +13,5 @@
 скоро
 
 Подписка (копируешь, и добавляешь в программу)
+
 https://gitlab.com/Shelest05/shelest-vpn/-/raw/main/gitlabmirror/1.txt?ref_type=heads
